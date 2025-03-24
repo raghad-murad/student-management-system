@@ -79,9 +79,13 @@ This project is a basic implementation of a student management system. It uses a
 The following screenshots demonstrate the execution of the program:
 
 ![Screenshot 1](1.png)
+
 ![Screenshot 2](2.png)
+
 ![Screenshot 3](3.png)
+
 ![Screenshot 4](4.png)
+
 ![Screenshot 5](5.png)
 
 ## 📂 Files Included
